@@ -1,0 +1,75 @@
+p{
+    font-family: Arial, Helvetica, sans-serif;
+
+    font-weight: bold;
+}
+
+.italics{
+    font-style: italic;
+}
+
+.underline{
+    text-decoration: underline;
+}
+
+.abouttext{
+    font-family: cursive;
+}
+
+.floatright{
+    float: right;
+}
+
+.spacer{
+    margin-top: -85px;
+    margin-bottom:0rem
+}
+
+.aboutnav{
+    z-index: 2;
+}
+
+.darkfencebackground{
+    background-image: url(../images/football-walking.jpg);
+}
+
+.lightfencebackground{
+    background-image: url(../images/football-walking.jpg);
+}
+
+.resumeheader{
+    display: block;
+   font-size: 150 rem;
+    color: black;
+    text-decoration: bold black;
+    
+}
+
+.resumecontact{
+    display: block;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 9px;
+    font-weight:10;
+    color:#222222;
+    text-align: center;
+}
+
+.templepic{
+    display: block;
+}
+
+.middlepic{
+    height: 150px;
+    padding-left: 58px;
+}
+
+.leftpic{
+    height: 150px;
+    padding-left: 275px;
+}
+
+.rightpic{
+    height: 150px;
+    padding-left: 58px;
+}
+
